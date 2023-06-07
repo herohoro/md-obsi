@@ -150,9 +150,15 @@ yarn dev
   
 ### STEP02_Obsidian Vault内のmdを接続
 
-1. Obsidianで新たなVaultを作ります
-2. ファイルの場所を
 
+1. Obsidianで「Obsidian Git」プラグインをインストールする
+2. Obsidianで新たなVaultを作ります
+3. Vault nameを==posts==にします
+4. LocationはSTEP01で使っていたeasy-obsidian-memo内にあるlib>obsidianにします
+5. 
+
+obsidianで編集するとその差分がGitHubのcommit候補に上がります。
+自動にする場合はobsidian Gitの設定から行ってください。
   
 
 
