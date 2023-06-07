@@ -1,5 +1,5 @@
 
-[English](README.md) | 日本語 | [한국어](README.kr.md)
+ 日本語  
 
   
 
@@ -7,9 +7,9 @@
 
   
 
-[![GitHub stars](https://img.shields.io/github/stars/otoyo/easy-notion-blog)](https://github.com/otoyo/easy-notion-blog/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/otoyo/easy-notion-blog)](https://github.com/herohoro/easy-obsidian-memo/stargazers)
 
-[![GitHub license](https://img.shields.io/github/license/otoyo/easy-notion-blog)](https://github.com/otoyo/easy-notion-blog/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/otoyo/easy-notion-blog)](https://github.com/herohoro/easy-obsidian-memo/blob/master/LICENSE)
 
   
 
@@ -155,7 +155,7 @@ yarn dev
 2. Obsidianで新たなVaultを作ります
 3. Vault nameを==posts==にします
 4. LocationはSTEP01で使っていたeasy-obsidian-memo内にあるlib>obsidianにします
-5. 
+5. Obsidian上でObsidian Gitを有効にする
 
 obsidianで編集するとその差分がGitHubのcommit候補に上がります。
 自動にする場合はobsidian Gitの設定から行ってください。
@@ -169,4 +169,4 @@ obsidianで編集するとその差分がGitHubのcommit候補に上がります
 
   
 
-easy-notion-blog は [ijjk/notion-blog](https://github.com/ijjk/notion-blog) と [otoyo/notion-blog](https://github.com/otoyo/notion-blog) をベースにしています。
+easy-obsidian-memo は [otoyo/easy-notion-blog](https://github.com/otoyo/easy-notion-blog) と [herohoro/ zutto2_easy-notion-blog](https://github.com/herohoro/zutto2_easy-notion-blog) をベースにしています。
