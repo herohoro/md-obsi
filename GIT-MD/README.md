@@ -32,8 +32,13 @@ easy-notion-blogの **【魔改造版】**
 - :white_check_mark: **~~Notion 公式API~~ Obsidian プラグイン**を使っているので~~安心~~ 簡単なコードで実現
 
 
+オリジナルで改造するために参考になるeasy-notion-blogのコードを残しています。
+改造する上で参考になる記述が沢山あるので、のぞいてみてください⭐
 
-  
+[easy愛好家が集まってこっそり開発継続中のeasy-notion-blog](https://github.com/herohoro/zutto2_easy-notion-blog)
+※ 元々開発されていたotoyoさんは[astro-notion-blog](https://github.com/otoyo/astro-notion-blog)の開発に専念しています  
+
+
 
 ## スクリーンショット
 
